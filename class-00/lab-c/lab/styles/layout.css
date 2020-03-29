@@ -13,3 +13,36 @@ aside {
     padding-bottom: 60px
   }
   
+  #logo h1 {
+    font-family: 'Yellowtail', cursive;
+  }
+
+  #slogan {
+    font-family: 'Abel', sans-serif;
+  }
+
+  h2 {
+    font-family: 'Oswald', sans-serif;
+  }
+
+  .print, .date {
+    font-family: 'Abel', sans-serif;
+  }
+
+  
+  input {
+    font-family: 'Patrick Hand', cursive;
+  }
+
+  
+  .recipe {
+    font-family: 'Patrick Hand', cursive;
+  }
+
+  aside button {
+    font-family: 'Abel', sans-serif;
+  }
+
+  * {
+    font-family: times;
+  }
